@@ -1,0 +1,74 @@
+%0 Journal Article
+%T Integrating Dynamic Material Flow Analysis and Computable General Equilibrium Models for Both Mass and Monetary Balances in Prospective Modeling: A Case for the Chinese Building Sector
+%V 53
+%N 1
+%P 224-233
+%L 1
+%U https://pubs.acs.org/doi/10.1021/acs.est.8b03633
+%G en
+%J Environmental Science & Technology
+%A Cao, Zhi
+%A Liu, Gang
+%A Zhong, Shuai
+%A Dai, Hancheng
+%A Pauliuk, Stefan
+%D 2019-01-02
+%K Essential
+CGE
+From_Prof.CAO
+/unread
+Presentation
+notion
+
+%0 Journal Article
+%T The sponge effect and carbon emission mitigation potentials of the global cement cycle
+%V 11
+%N 1
+%P 3777
+%L 1
+%U https://www.nature.com/articles/s41467-020-17583-w
+%X Abstract
+            
+              Cement plays a dual role in the global carbon cycle like a sponge: its massive production contributes significantly to present-day global anthropogenic CO
+              2
+              emissions, yet its hydrated products gradually reabsorb substantial amounts of atmospheric CO
+              2
+              (carbonation) in the future. The role of this sponge effect along the cement cycle (including production, use, and demolition) in carbon emissions mitigation, however, remains hitherto unexplored. Here, we quantify the effects of demand- and supply-side mitigation measures considering this material-energy-emissions-uptake nexus, finding that climate goals would be imperiled if the growth of cement stocks continues. Future reabsorption of CO
+              2
+              will be significant (~30% of cumulative CO
+              2
+              emissions from 2015 to 2100), but climate goal compliant net CO
+              2
+              emissions reduction along the global cement cycle will require both radical technology advancements (e.g., carbon capture and storage) and widespread deployment of material efficiency measures, which go beyond those envisaged in current technology roadmaps.
+%G en
+%J Nature Communications
+%A Cao, Zhi
+%A Myers, Rupert J.
+%A Lupton, Richard C.
+%A Duan, Huabo
+%A Sacchi, Romain
+%A Zhou, Nan
+%A Reed Miller, T.
+%A Cullen, Jonathan M.
+%A Ge, Quansheng
+%A Liu, Gang
+%D 2020-07-29
+%K /unread
+
+%0 Journal Article
+%T China’s bulk material loops can be closed but deep decarbonization requires demand reduction
+%L 1
+%U https://doi.org/10.1038/s41558-023-01782-6
+%X China, as the largest global producer of bulk materials, confronts formidable challenges in mitigating greenhouse gas emissions arising from their production. Yet the emission savings resulting from circular economy strategies, such as improved scrap recovery, more intensive use and lifetime extension, remain underexplored. Here we show that, by 2060, China could source most of its required bulk materials through recycling, partially attributable to a declining population. Province-level results show that, while economic development initially drives up material demand, it also enables closed loops as demand approaches saturation levels. Between now and 2060, improved scrap recovery cumulatively reduces greenhouse gas emissions by 10%, while more intensive use, resulting in reduced material demand, reduces emissions by 21%. Lifetime extension offers a modest benefit, leading to a 3% reduction in emissions. Alongside the large potential for recycling, our findings highlight the importance of demand reduction in meeting global climate targets.
+%J Nature Climate Change
+%A Song, Lulu
+%A van Ewijk, Stijn
+%A Masanet, Eric
+%A Watari, Takuma
+%A Meng, Fanran
+%A Cullen, Jonathan M.
+%A Cao, Zhi
+%A Chen, Wei-Qiang
+%D 2023-09-11
+%K /unread
+
