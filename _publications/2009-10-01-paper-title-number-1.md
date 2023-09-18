@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Circular economy strategies to decarbonize China’s bulk material cycles"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Song et al_2023_China’s bulk material loops can be closed but deep decarbonization requires.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2023-10-01
+venue: 'Nature Climate Change'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Song, L., van Ewijk, S., Masanet, E., Watari, T., Meng, F., Cullen, J. M., Cao, Z., & Chen, W.-Q. (2023). China’s bulk material loops can be closed but deep decarbonization requires demand reduction. Nature Climate Change. https://doi.org/10.1038/s41558-023-01782-6'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Song et al_2023_China’s bulk material loops can be closed but deep decarbonization requires.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Song, L., van Ewijk, S., Masanet, E., Watari, T., Meng, F., Cullen, J. M., Cao, Z., & Chen, W.-Q. (2023). China’s bulk material loops can be closed but deep decarbonization requires demand reduction. Nature Climate Change. https://doi.org/10.1038/s41558-023-01782-6
