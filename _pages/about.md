@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "SAFARI"
-excerpt: "About me"
+title: "SAFARI-LAB"
+excerpt: "The web page for Systems Analysis For sustainability And climate ResIlience Lab (SAFARI)"
 author_profile: true
 redirect_from: 
   - /about/
