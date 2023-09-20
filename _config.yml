@@ -250,9 +250,9 @@ defaults:
   # _Team
   - scope:
       path: ""
-      type: teams
+      type: team
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
