@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Team:
+  team:
     output: true
     permalink: /:collection/:path/
 
@@ -247,7 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _Team
+  # _team
   - scope:
       path: ""
       type: team

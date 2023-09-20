@@ -1,7 +1,7 @@
 ---
 title: "Circular economy strategies to decarbonize China’s bulk material cycles"
 collection: publications
-permalink: /publication/Song et al_2023_China’s bulk material loops can be closed but deep decarbonization requires.pdf
+permalink: /publication/Song et al_2023_NCC.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-01
 venue: 'Nature Climate Change'
