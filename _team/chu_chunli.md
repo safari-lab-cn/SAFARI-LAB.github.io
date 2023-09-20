@@ -8,8 +8,11 @@ date: 2011-01-01
 location: "Tianjin, China"
 ---
 
+<img src="../images/avatar/chu_chunli.jpg" width="350" height="450" alt="Built environment stocks">
+
 Title: Associate Professor, Master Supervisor
 Research areas: industrial ecology, environmental planning and management, watershed (regional) water environment assessment and management decision support
+
 E-mail: chucl@nankai.edu.cn
 
 Lectured or participated in lectures on undergraduate industrial ecology (professional foundation course), fundamentals of environmental science (national quality course, Ju Meiting/ Shao Chaofeng/Chu Chunli), typical environmental events and countermeasures (university elective course), introduction to marine nature reserves and special protected areas (summer semester course), net-zero building design and low-carbon (Global Classroom associated with Global Classroom associated with the University of Maryland);
