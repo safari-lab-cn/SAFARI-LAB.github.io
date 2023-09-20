@@ -4,7 +4,7 @@ collection: team
 type: "Talk"
 permalink: /team/chu_chunli
 venue: "Nankai University, College of Environmental Science and Engineering"
-date: 2011
+date: 2011-01-01
 location: "Tianjin, China"
 ---
 
