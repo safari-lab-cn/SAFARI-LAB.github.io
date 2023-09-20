@@ -4,7 +4,7 @@ collection: team
 type: "Talk"
 permalink: /team/tian_lili
 venue: "Nankai University, College of Environmental Science and Engineering"
-date: 2023-09-20
+date: 2022-09-01
 location: "Tianjin, China"
 ---
 

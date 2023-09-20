@@ -4,7 +4,7 @@ collection: team
 type: "Talk"
 permalink: /team/song_jingyang
 venue: "Nankai University, College of Environmental Science and Engineering"
-date: 2000-01-28
+date: 2022-09-28
 location: "Tianjin, China"
 ---
 
