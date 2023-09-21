@@ -1,7 +1,7 @@
 ---
 title: "Song Jingyang"
 collection: team
-type: "Talk"
+type: "Master Student"
 permalink: /team/song_jingyang
 venue: "Nankai University, College of Environmental Science and Engineering"
 date: 2022-09-28
