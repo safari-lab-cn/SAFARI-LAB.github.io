@@ -6,14 +6,17 @@ main:
   - title: "Team"
     url: /team/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Join US"
+    url: /join_us/
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "SAFARI Lab"
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "logo/logo_0921.jpg"
   bio              : "Full Professor at Nankai University"
   location         : "Tianjin, China"
   employer         : "Nankai University"
@@ -190,6 +190,9 @@ collections:
   team:
     output: true
     permalink: /:collection/:path/
+  join_us:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,14 @@ defaults:
   - scope:
       path: ""
       type: team
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _join_us
+  - scope:
+      path: ""
+      type: join_us
     values:
       layout: single
       author_profile: true
