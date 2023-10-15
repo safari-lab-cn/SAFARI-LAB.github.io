@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Researches"
+  - title: "研究方向"
     url: /researches/
 
-  - title: "Publications"
+  - title: "论文发表"
     url: /publications/
 
-  - title: "News"
+  - title: "学术活动"
     url: /news/
 
-  - title: "Team"
+  - title: "研究团队"
     url: /team/
 
-  - title: "Join US"
+  - title: "加入我们"
     url: /join_us/
 
 #  - title: "Talks"

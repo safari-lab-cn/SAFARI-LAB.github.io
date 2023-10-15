@@ -11,9 +11,9 @@ title                    : "SAFARI"
 title_separator          : "-"
 name                     : &name "Systems Analysis For sustainability And climate ResIlience (SAFARI)"
 description              : &description "personal description"
-url                      : https://safari-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://safari-lab-cn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SAFARI-LAB/SAFARI-LAB.github.io"
+repository               : "safari-lab-cn/safari-lab-cn.github.io"
 teaser                   :  "log_0921.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,8 +83,8 @@ author:
   name             : "SAFARI Lab"
   avatar           : "log_0921.png"
   bio              : 
-  location         : "Tianjin, China"
-  employer         : "Nankai University"
+  location         : "天津，中国"
+  employer         : "南开大学"
   pubmed           : "https://publons.com/researcher/1880147/zhi-cao/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Hj-kD_sAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "zhicao@nankai.edu.cn"
