@@ -9,14 +9,18 @@ redirect_from:
 ---
 
 # Systems Analysis For sustainability And climate ResIlience 
+# 可持续发展与气候资源的系统分析
 
-Starting in 2023, Dr. Zhi CAO has assumed the position of Full Professor at Nankai University, Tianjin, China. Prior to his position at Nankai University, he was a Tenure-Track Assistant Professor at the Faculty of Applied Engineering, University of Antwerp, Belgium. He embarked on his postdoctoral training at the Center for Life Cycle Engineering at the University of Southern Denmark, Denmark, followed by a stint at the Energy and Resource Systems Analysis Laboratory at Northwestern University, United States. In 2017, he earned his PhD degree from the Chinese Academy of Sciences.
+自 2023 年起，曹植博士担任中国天津南开大学正教授。在南开大学任职之前，他是比利时安特卫普大学应用工程学院的终身制助理教授。他曾在丹麦南丹麦大学生命周期工程中心进行博士后培训，随后在美国西北大学能源与资源系统分析实验室工作。2017 年，他获得中国科学院博士学位。
 
-Dr. Cao is broadly interested in sustainability and industrial ecology, with a particular interest in developing and applying state-of-the-art sustainability assessment tools to examine the techno-economic feasibility of implementing low-carbon technologies or policy options. He is a mathematical model enthusiast with years of training in industrial ecology tools and beyond.
+曹博士对可持续发展和工业生态学有着广泛的兴趣，尤其擅长开发和应用最先进的可持续发展评估工具，以研究实施低碳技术或政策方案的技术经济可行性。他是一名数学模型爱好者，在工业生态学工具等方面接受过多年培训。
 
 # Creating a resource cadaster for pavements
-Built environment stocks – building and transport infrastructure – provide essential services to fulfill basic human needs, such as workplace, mobility, and communication. Road infrastructure constitutes an integral part of built environment stocks. It connects and shapes human settlements, ensuring daily mobility of people, access to jobs, and distribution of goods. Materials accumulated in road infrastructure over their long-life span could potentially serve as future resource providers, which have been termed as anthropogenic material stocks. This project aims to develop an exchangeable knowledge and data platform to inventory ‘material passports’ of pavements, which will enable resource recycling and circular design in pavement sector moving forward.
+# 为人行道创建资源清册
+
+建筑环境存量--建筑和交通基础设施--为满足人类的基本需求提供必要的服务，如工作场所、流动性和通信。道路基础设施是建筑环境存量的一个组成部分。它连接并塑造人类住区，确保人们的日常流动、就业和货物配送。道路基础设施在长期使用过程中积累的材料有可能成为未来的资源提供者，这些材料被称为人为材料库存。本项目旨在开发一个可交换的知识和数据平台，以清点路面的 "材料护照"，从而促进路面行业的资源循环利用和循环设计。
 
 <img src="../images/Built_environment_stocks.png" width="600" height="700" alt="Built environment stocks">
 
 # Prospective sustainability assessment
+# 前瞻性的可持续性评估
